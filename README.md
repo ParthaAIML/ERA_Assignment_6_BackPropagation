@@ -54,7 +54,7 @@ This is done via Back Propagation,Back Propagation helps us to compute the gradi
 
 **`Forward Propagation`**
 
-In this example, input `i1` and `i2` is getting multiplied with  weights `w1`,`w2`,`w3`,`w4` to produce the output `h1` and `h2` then `h1` and `h2` goes through the activation function (sigmoid,tanh or relu) to produce the output `a_h1` and `a_h2`. Then again `a_h1` then `a_h2` get multiplied with  weights `w5`,`w6`,`w7` and `w8` to produce the output `o1` and `o2`,again `q1` and `q2` goes through the activation function (sigmoid,tanh or relu) to produce the output `a_o1` and `a_o2`. Then the error is computed using `MSE` ad finally the total error is computed.
+In this example, input `i1` and `i2` is getting multiplied with  weights `w1`,`w2`,`w3`,`w4` to produce the output `h1` and `h2` then `h1` and `h2` goes through the activation function (sigmoid,tanh or relu) to produce the output `a_h1` and `a_h2`. Then again `a_h1` then `a_h2` get multiplied with  weights `w5`,`w6`,`w7` and `w8` to produce the output `o1` and `o2`,again `o1` and `o2` goes through the activation function (sigmoid,tanh or relu) to produce the output `a_o1` and `a_o2`. Then the error is computed using `MSE` ad finally the total error is computed.
 
 **`Back Propagation`**
 
