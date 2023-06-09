@@ -59,9 +59,6 @@ In this example, input `i1` and `i2` is getting multiplied with  weights `w1`,`w
 
 During back propagation the derivative of the loss with respect to the weights   `w5`,`w6`,`w7` and `w8` are computed and then again the derivative or the gradients of the total loss with respect to the weights `w1`,`w2`,`w3`,`w4` are computed. During the gradinet computation the chain rule is used. Below are the gradient computation.
 
-
-![model_summary](https://github.com/ParthaAIML/ERA_Assignment_6_BackPropagation/assets/100613266/cb33c750-a49e-4544-a8cb-ee200a9f441f)
-
 Finally the weights are updated and the forward pass are done to get the prediction.
 
 ### Sample output
