@@ -35,6 +35,7 @@ There is one excel file containing all the back propagation calculation in this 
 *  **`Complete Back Propagation Calculation.xlsx`**
 
 ### Back Propagation
+---
 
 The given network is below
 
@@ -64,7 +65,7 @@ Finally the weights are updated and the forward pass are done to get the predict
 ### Sample output
 ---
 
-Back propagation with different learning rate has been performed and the results are shown below
+Back propagation with different learning rate `[0.1,0.2,0.8,1,2]` has been performed and the results are shown below
 
 *  **Back Propagation with LR 0.01**
 
