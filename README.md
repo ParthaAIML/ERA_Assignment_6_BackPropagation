@@ -32,10 +32,16 @@ By repeating these steps, backpropagation enables the neural network to learn fr
 ### Files info
 ---
 There is one excel file containing all the back propagation calculation in this repository, the name of the excel file is.
-*  **`Complete Back Propagation Calculation`**
+*  **`Complete Back Propagation Calculation.xlsx`**
 
 ### Back Propagation
 
+The given network is below
+
+
+![neural network](https://github.com/ParthaAIML/ERA_Assignment_6_BackPropagation/assets/100613266/35a56ef7-e366-4a26-9f73-c9635b309e77)
+
+In this network we have two inputs and two outputs, one hidden layer. There are eight weights in the network `w1`,`w2`,`w3`,`w4`,`w5`,`w6`,`w7` and `w8`. The first four weights connects the input to the neurons of the hidden layer and the last four weights connects the neurons of the hidden lasyer to the output
 
 ### Sample output
 ---
